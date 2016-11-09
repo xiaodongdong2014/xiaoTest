@@ -1,0 +1,27 @@
+# 1 "BST.cpp"
+# 1 "<built-in>" 1
+# 1 "<built-in>" 3
+# 332 "<built-in>" 3
+# 1 "<command line>" 1
+# 1 "<built-in>" 2
+# 1 "BST.cpp" 2
+
+
+class Node{
+public:
+ int data;
+ Node* parent;
+ Node* left;
+ Node* right;
+ Node():data(0),parent(NULL),left(NULL),right(NULL){};
+ Node(int num):data(num),parent(NULL),left(NULL),right(NULL){};
+};
+
+
+int main(int argc,char * argv[]){
+
+
+
+
+ return 0;
+}
